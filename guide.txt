@@ -1,1 +1,1 @@
-https://api.hoibeo.xyz
+http://api.hoibeo.xyz
